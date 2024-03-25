@@ -1,0 +1,19 @@
+{
+  "name": "ar2simple-calculator",
+  "version": "3.0.0",
+  "description": "A simple calculator with TYpescript,Node.js and Inquirer",
+  "main": "index.js",
+  "bin": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Areeba Awan",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
